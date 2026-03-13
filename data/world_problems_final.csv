@@ -1,0 +1,7 @@
+Problem_Name,Category,Annual_Cost_USD_Billions,Total_Cost_USD_Billions,People_Affected_Millions,Region_Most_Affected,Source_Name,Source_URL,Top_Billionaire_Can_Afford_Pct,Affordability_Label,Cost_Per_Person_USD
+End World Hunger,Food Security,40,200,733,Sub-Saharan Africa,UN WFP,https://www.wfp.org,105.5,✅ Can Afford,272.85
+Stop Climate Change,Environment,4000,50000,3500,Asia & Pacific,World Bank,https://www.worldbank.org/en/topic/climatechange,0.42,❌ Cannot Afford,14285.71
+Eradicate Malaria,Healthcare,6,100,247,Sub-Saharan Africa,WHO,https://www.who.int/docs/default-source/malaria-pdf,211.0,✅ Can Afford,404.86
+Universal Education,Education,39,390,244,South Asia,UNESCO,https://www.unesco.org/gem-report,54.1,⚠️ Almost,1598.36
+Clean Water For All,Sanitation,114,1140,2200,Sub-Saharan Africa,UN Water,https://www.unwater.org/publications,18.51,❌ Cannot Afford,518.18
+Universal Healthcare,Healthcare,371,3710,4500,Global,WHO,https://www.who.int/health-topics/universal-health-coverage,5.69,❌ Cannot Afford,824.44

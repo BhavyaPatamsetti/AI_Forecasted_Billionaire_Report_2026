@@ -1,0 +1,9 @@
+Country,Country_Code,GDP_USD_Trillions,Year,GDP_Category,Country_Year
+Australia,AUS,1.76,2024,Medium Economy (<3T),AUS_2024
+China,CHN,18.74,2024,Major Economy (10T+),CHN_2024
+Germany,DEU,4.69,2024,Large Economy (3-10T),DEU_2024
+France,FRA,3.16,2024,Large Economy (3-10T),FRA_2024
+United Kingdom,GBR,3.69,2024,Large Economy (3-10T),GBR_2024
+India,IND,3.91,2024,Large Economy (3-10T),IND_2024
+Mexico,MEX,1.86,2024,Medium Economy (<3T),MEX_2024
+United States,USA,28.75,2024,Major Economy (10T+),USA_2024
