@@ -85,6 +85,17 @@ BillionaireDashboard/
 
 ---
 
+## 📸 Dashboard Preview
+
+| Page | Screenshot |
+|---|---|
+| 💰 The Wealth Wall | [The_Wealth_Wall.png]
+| ⚔️ The Match-Up | ![Match Up](screenshots/match_up.png) |
+| 📈 Economic Pulse | ![Economic Pulse](screenshots/economic_pulse.png) |
+| 🌍 Country & Industry | ![Country Industry](screenshots/country_industry.png) |
+| 🤖 AI Forecast | ![AI Forecast](screenshots/ai_forecast.png) |
+
+---
 ## 🚀 How to Run
 
 ### 1. Clone the repository
