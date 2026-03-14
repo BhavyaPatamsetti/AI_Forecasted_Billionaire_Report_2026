@@ -128,8 +128,8 @@ The money EXISTS. The question is — WHERE does it go?
 ---
 
 ## 👩‍💻 Author
-**Bhavya Patamsetti**
-- LinkedIn: [Add your LinkedIn URL]
+**Radhi Sri Bhavya Patamsetti**
+- LinkedIn: [https://www.linkedin.com/in/bhavyapatamsetti/]
 - GitHub: [https://github.com/BhavyaPatamsetti](https://github.com/BhavyaPatamsetti)
 
 ---
