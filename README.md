@@ -120,6 +120,17 @@ python scripts/forecast_all.py
 5. **If ALL top 20 combined** their wealth they could solve everything EXCEPT Climate Change
 
 ---
+## 📸 Dashboard Preview
+
+| Page | Screenshot |
+|---|---|
+| 💰 The Wealth Wall | ![Wealth Wall](Screenshots/The_Wealth_Wall.png) |
+| ⚔️ The Match-Up | ![Match Up](Screenshots/The_Match-up.png) |
+| 📈 Economic Pulse | ![Economic Pulse](Screenshots/Economic_Pulse.png) |
+| 🌍 Country & Industry | ![Country Industry](Screenshots/Country_&_Industry.png) |
+| 🤖 AI Forecast | ![AI Forecast](Screenshots/AI_Forecast.png) |
+
+----
 
 ## 🎯 The Conclusion
 The money EXISTS. The question is — WHERE does it go?
