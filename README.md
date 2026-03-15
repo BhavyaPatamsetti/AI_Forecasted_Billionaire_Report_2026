@@ -84,7 +84,6 @@ BillionaireDashboard/
 | Jeff Bezos | $286B | $321B | $356B |
 
 ---
-
 ## 🚀 How to Run
 
 ### 1. Clone the repository
@@ -125,11 +124,13 @@ python scripts/forecast_all.py
 ## 🎯 The Conclusion
 The money EXISTS. The question is — WHERE does it go?
 
+
+
 ---
 
 ## 👩‍💻 Author
-**Bhavya Patamsetti**
-- LinkedIn: [Add your LinkedIn URL]
+**Radhi Sri Bhavya Patamsetti**
+- LinkedIn: [https://www.linkedin.com/in/bhavyapatamsetti/]
 - GitHub: [https://github.com/BhavyaPatamsetti](https://github.com/BhavyaPatamsetti)
 
 ---
