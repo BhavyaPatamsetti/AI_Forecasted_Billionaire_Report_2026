@@ -124,7 +124,7 @@ python scripts/forecast_all.py
 
 | Page | Screenshot |
 |---|---|
-| 💰 The Wealth Wall | !(Screenshots/The_Wealth_Wall.png) |
+| 💰 The Wealth Wall | ![Wealth Wall](Screenshots/The_Wealth_Wall.png) |
 | ⚔️ The Match-Up | ![Match Up](Screenshots/The_Match-up.png) |
 | 📈 Economic Pulse | ![Economic Pulse](Screenshots/Economic_Pulse.png) |
 | 🌍 Country & Industry | ![Country Industry](Screenshots/Country_&_Industry.png) |
